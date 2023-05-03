@@ -23,6 +23,7 @@
     "babel-loader": "^9.1.2",
     "copy-webpack-plugin": "^11.0.0",
     "D": "^1.0.0",
+    "gh-pages": "^5.0.0",
     "html-webpack-plugin": "^5.5.1"
   }
 }
