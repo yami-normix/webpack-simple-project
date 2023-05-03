@@ -9,7 +9,7 @@ const data = {
     name: "Yamileth Diaz",
     nickname: "yami-normix",
     texto: "Learning Web development at @platzi - Accounting at Umoar - #Javascript #Html #CSS #Typescript #Accounting #English",
-    description: "Salvadorenia, Estudio Desarrollo web en Platzi y Contaduria Publica en la Universidad Monsenior Oscar Arnulfo Romero. Amo estudiar y soy fiel creyente que el esfuerzo y constancia, si o si trae su recompensa.",
+    description: "Salvadoreña, Estudio Desarrollo web en Platzi y Contaduria Publica en la Universidad Monseñor Oscar Arnulfo Romero. Amo estudiar y soy fiel creyente que el esfuerzo y constancia, si o si trae su recompensa.",
     avatar: "...",
     social: [
       {
@@ -34,7 +34,7 @@ const data = {
         color: "#4361ee",
         viewBox: '0 0 24 24',
         username: "",
-        path: 'M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z',
+        path: 'M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z',
       },
       {
         name: "platzi",
